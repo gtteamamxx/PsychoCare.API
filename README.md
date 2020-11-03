@@ -1,5 +1,5 @@
 # Description
-This is API project of my college project.
+This is API project for my college project. To check GUI go to https://github.com/gtteamamxx/PsychoCare.Client
 
 # Requirments
 
